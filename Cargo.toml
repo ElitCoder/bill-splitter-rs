@@ -1,0 +1,7 @@
+[package]
+name = "bill-splitter-rs"
+version = "0.1.0"
+authors = ["Niklas Carlsson <niklas.carlsson1994@gmail.com>"]
+edition = "2018"
+
+[dependencies]
